@@ -1,5 +1,9 @@
 # CPU-Scheduling-Algorithms
-This repository is an implementation of CPU Scheduling Algorithm.
+This repository is an implementation of CPU Scheduling Algorithm namely:
+(1)First In First Out(FIFO)
+(2)Shortest Job First(SJF)-Non Preemptive
+(3)Shortest Job First(SJF)-Preemptive
+(4)Round Robin
 This dynamically gets input from the user and schedules the process based on the scheduling algorithm chosen.
 The program uses the concept of multiple threads. 
 Here, different states like ready state, running state and blocked state are implemented using threads.
