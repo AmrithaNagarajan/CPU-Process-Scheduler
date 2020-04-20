@@ -3,6 +3,7 @@
 #include<semaphore.h>
 #include<pthread.h>
 #include<limits.h>
+#include<stdbool.h>
 #include<time.h>
 int process[3][100];
 int run2[100]={0};
