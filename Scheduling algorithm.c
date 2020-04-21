@@ -250,7 +250,7 @@ void * run_statesjfnp(int * arg)
                         		}
 				}
 				else
-					sem_post(&readyqueue);
+					sem_post(&rdyque);
 			}
 			else
 			{
